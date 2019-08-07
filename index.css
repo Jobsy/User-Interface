@@ -70,6 +70,13 @@ h1, h2, h3, h4, h5 {
 	margin: auto;
 }
 
+.header1{
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	background-color: white;
+	z-index: 1;
+}
 nav {
 	width: 900px;
 	display: inline-block;
